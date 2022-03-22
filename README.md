@@ -2,4 +2,4 @@
 
 Jogo desenvolvido durante bootcamp Fullstak Philips.
 
-![jogo](https://github.com/whenes/jogo-dinossauro-dio/blob/master/screenshot.png)
+![jogo](https://github.com/whenes/jogo-dinossauro-dio/blob/main/screenshot.png)
